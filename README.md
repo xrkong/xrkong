@@ -17,4 +17,4 @@ Here are some ideas to get you started:-->
 
 [![xrkong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrkong&theme=tokyonight&card_width=500)](https://github.com/xrkong/github-readme-stats)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xrkong&theme=dark&card_width=500)
+
