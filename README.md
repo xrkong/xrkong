@@ -9,9 +9,9 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on the University of Western Australia at [the UWA Renewable Energy Vehicle Project (REV)](https://therevproject.com/)
-- 🌱 I’m currently learning the integration of large language model and autonomous driving
-- 🤔 I’m looking for help with commercialization project of LLM and autonomous driving.
+- 🛣️ I'm now working as a Research Associate at [University of Western Australia (UWA)](https://www.uwa.edu.au/schools/engineering/electrical-electronic-and-computer-engineering) and [Curtin University](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-electrical-engineering-computing-and-mathematical-sciences/) focusing on Intelligent Transportation and Road Safety. 
+- 🔭 During 2022-2025 I was on foundation models and large language models for autonomous vehicles at [the UWA Renewable Energy Vehicle Project (REV)](https://therevproject.com/)
+- 🌱 DUring 2020-2022 I was a software developer in two Chinese companies. 
 
 
 
