@@ -9,10 +9,7 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
 
-- 🛣️ I'm now working as a Research Associate at [University of Western Australia (UWA)](https://www.uwa.edu.au/schools/engineering/electrical-electronic-and-computer-engineering) and [Curtin University](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-electrical-engineering-computing-and-mathematical-sciences/) focusing on Intelligent Transportation and Road Safety. 
-- 🔭 During 2022-2025 I was on foundation models and large language models for autonomous vehicles at [the UWA Renewable Energy Vehicle Project (REV)](https://therevproject.com/)
-- 🌱 DUring 2020-2022 I was a software developer in two Chinese companies. 
-
-
-
+- 🛣️ I am currently a research assistant at the [University of Western Australia (UWA)](https://www.uwa.edu.au/schools/engineering/electrical-electronic-and-computer-engineering) and [Curtin University](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-electrical-engineering-computing-and-mathematical-sciences/), primarily focusing on intelligent transportation and road safety.
+- 🔭 From 2022 to 2025, I participated in research on foundational models and large-scale language models for autonomous vehicles at [the UWA Renewable Energy Vehicle Project (REV)](https://therevproject.com/)
+- 🌱 From 2020 to 2022, I worked as a software developer at two Chinese companies.
 
